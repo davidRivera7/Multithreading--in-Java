@@ -1,0 +1,10 @@
+Aprendizajes del Ejercicio 1:
+
+- Usar wait(), notify() solo dentro de un bloque synchronized.
+
+- Se aprendió una forma de que varios hilos compartan variables.
+
+- Exception in thread "Thread-1" java.lang.IllegalMonitorStateException: current thread is not owner
+    - Este error ocurre cuando se intenta llamar a wait() fuera del bloque synchronized o cuando wait() no se llama sobre el objeto en el que se ha adquirido el bloqueo.
+
+- Se recomienda usar wait() dentro de un bucle while, donde el bucle while comprueba constantemente la condición. ¿Por qué?

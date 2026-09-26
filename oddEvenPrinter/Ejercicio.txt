@@ -1,0 +1,4 @@
+Crea dos hilos:
+-> Uno imprime los números impares del 1 al 9
+-> El otro imprime los números pares del 2 al 10
+-> Deben imprimir alternativamente en secuencia: 1 2 3 4 5 6 7 8 9 10
