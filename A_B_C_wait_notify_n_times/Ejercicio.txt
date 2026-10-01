@@ -1,0 +1,8 @@
+Imprimir A B C, 'n' veces utilizando 3 Threads, wait() y notify().
+
+Resultado de n = 5:
+A -> Thread-0
+B -> Thread-1
+C -> Thread-2
+A -> Thread-0
+B -> Thread-1

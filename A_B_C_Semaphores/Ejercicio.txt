@@ -1,0 +1,12 @@
+Main:
+Imprimir A B C, 'n' veces utilizando 3 Threads y 'Semaphores'.
+Cada impresión por letra incrementa el 'contador' en 1, continuar mientras que
+'contador' sea menor a 'n'
+
+Main2:
+Imprimir A B C, n veces utilizando 3 Threads y 'Semaphores'.
+Después de imprimir A B C (las 3 letras seguidas) incrementa el 'contador' en 1, continuar mientras que
+'contador' sea menor a 'n'.
+
+Main2_Improved:
+Solución más simple que Main2
